@@ -1,0 +1,290 @@
+ /* Nav- Continaer -style */
+.nav-main-con {
+  
+    background-color: #000000;
+    background-size: cover;
+    height: 200px;
+}
+.nav-contact-con {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-right: 5px;
+    padding-left: 5px;
+    
+}
+.nav-email-con {
+    display: flex;
+    flex-direction: row;
+
+}
+.nav-ul {
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-logo-con {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+
+.nav-li {
+    margin-right: 4px;
+
+}
+
+.nav-items {
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 500;
+    
+    
+}
+
+.nav-btn {
+    border: none;
+    border-style: none;
+    background-color: #bb2424;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 400;
+    text-transform: uppercase;
+    width: 125px;
+    height: 30px;
+
+}
+.our-story-des {
+    display: flex;
+    flex-direction: row;
+}
+
+.span-ele {
+    line-height: 0.2;
+    text-transform: capitalize;
+    font-size: 45px;
+    font-weight: 800;
+    font-family: Roboto;
+}
+
+
+
+.menu-btn {
+    border: solid 2px black;
+    
+    background-color:transparent;
+    color: black;
+    font-size: 12px;
+    font-weight: 400;
+    text-transform: uppercase;
+    width: 85px;
+    height: 28px;
+}
+
+
+.our-story-con {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.our-story-head {
+    color: #bb2424;
+    font-size: 38px;
+    font-family: "Sans serif";
+    font-weight: 800;
+    margin-top: 5px;
+
+}
+
+
+
+.menu-con {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.book-table-bg {
+    background-image: url("Whole image Dawat/promo_slide_2.jpg");
+    background-size: cover;
+    height: 320px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+
+.book-table-head {
+    font-family: "Roboto";
+    font-size: 38px;
+    font-weight:800;
+    letter-spacing: 0.8;
+    text-transform: capitalize;
+    color: #ffffff;
+}
+
+.book-table-btn {
+    background-color: #ffffff;
+    border: none;
+    padding: 5px 14px  5px 15px;
+    color:#a52a2a;
+    font-size: 10px;
+    font-family: roboto;
+    font-weight: 400;
+    letter-spacing: 0.6;
+    text-transform: capitalize;
+
+}
+
+.chefs-bg {
+    background-color: #ffffff;
+    height: 400px;
+    padding: 55px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.chefs-con-head{
+    color: #a52a2a;
+    font-size: 38px;
+    font-family: sans-serif;
+    font-weight: 800;
+    line-height: 0.8;
+    letter-spacing: 2px;
+}
+
+.chefs-main-con {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;  
+
+}
+
+.chef-con {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:0px 0px 0px 0px;
+}
+
+.chef-head{
+    font-family: roboto;
+    font-weight: 600;
+    font-size: 11px;
+    color: black;
+  
+    
+}
+
+.chef-des {
+    font-family: roboto;
+    font-weight: 400;
+    font-size: 11px;
+    color: black;
+    letter-spacing: 0.8px;
+    
+
+}
+
+.chef-img {
+    height: 150px;
+    width: 100px;
+}
+
+.gallery-con {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.gallery-head {
+    color: #a52a2a;
+    font-size: 38px;
+    font-family: "PT Sans Narrow", "Sans Serif";
+    font-style: normal;
+    font-weight: 800;
+    line-height: 0.8;
+    letter-spacing: 2px;
+}
+
+.seperator-img {
+    width: 120px;
+    margin-top:5px;
+    margin-bottom: 15px;
+    align-items: center;
+}
+
+
+.footer-bg {
+    background-image: url("Whole image Dawat/Footer\ background.png");
+    background-size: cover;
+    padding: 10px;
+}
+
+.footer-info-con {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-adderss {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 20px;
+
+}
+
+.footer-number {
+    color: #bb2424;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 400;
+
+}
+
+.footer-des {
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 400;
+    color: #bb2424;
+}
+
+.footer-ul-con {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.footer-last-con {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.footer-p {
+    color: #ffffff;
+    font-size: 15px;
+
+}
+li{
+    list-style-type: none;
+    margin-right: 4px;
+}
